@@ -286,10 +286,9 @@ margin-left: auto;
 .our-overlay-box{
     position: relative;
     overflow: hidden;
-    transform: translateY(0%)
+ 
 }
-.our-portfolio-overlay-p{
-    
+.our-portfolio-overlay-p {
     position: absolute;
     top: 0;
     font-size: 16px;
