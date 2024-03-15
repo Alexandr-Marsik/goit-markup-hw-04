@@ -340,9 +340,10 @@ margin-left: auto;
 .div-footer{
     display: flex;
     align-items: baseline;
+    margin-right: 120px;
 }
 .div-footer-second{
-    margin-right: 120px;
+    
 }
 .social-title{
     font-weight: 500;
