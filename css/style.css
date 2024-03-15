@@ -373,6 +373,10 @@ letter-spacing: 0.02em;
 color: #f4f4fd;
 max-width: 264px;
 }
+.footer-menu-link{
+    display: flex;
+    gap: 16px;
+}
 .visually-hidden {
     position: absolute;
     width: 1px;
