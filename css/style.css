@@ -295,6 +295,9 @@ margin-left: auto;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+.svg-our-team {
+    fill:#f4f4fd;
+}
 
 .page-footer {
     background-color: #2e2f42;
